@@ -1,4 +1,4 @@
-![Desktop - 7](https://github.com/jieun419/jieun_portfolio/assets/109754988/0d619991-4690-4994-9c8e-95c120205720)
+![Desktop - 7](https://github.com/kim-yunseok/yunseok/assets/109754988/0d619991-4690-4994-9c8e-95c120205720)
 
 - **`Project` :** 김윤석 포트폴리오
 - **`Project duration` :** 2023.08.31 - 2023.09.31
