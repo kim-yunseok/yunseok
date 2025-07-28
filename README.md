@@ -1,28 +1,21 @@
-# 프로젝트 이름
+# 👋 안녕하세요! 성장하는 개발자 홍길동입니다.
 
-## 📌 목표
-간단한 설명: 왜 이걸 만들었는지, 뭘 배우고자 했는지
+## 🔧 기술 스택
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 🛠 사용 기술
-- React
-- TypeScript
-- Vite
+## 🧠 공부 기록
+- 📘 [TIL 정리](https://github.com/username/til)
+- 📗 [CS 기초](https://github.com/username/cs-study)
+- 📕 [알고리즘 문제 풀이](https://github.com/username/algorithms)
 
-## 🧪 주요 기능
-- 사용자 로그인/로그아웃
-- Todo CRUD
-- 로컬 스토리지 저장
+## 🛠️ 프로젝트
+| 이름 | 설명 | 기술 |
+|------|------|------|
+| [Todo 앱](https://github.com/username/todo-app) | 할 일 목록 관리 앱 | React, TypeScript |
+| [블로그 클론](https://github.com/username/django-blog) | Django로 만든 블로그 | Python, Django |
 
-## 📸 미리보기
-(스크린샷 첨부 가능)
+## 📊 GitHub 통계
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
-## 🧠 회고 / 배운 점
-- React hook의 동작 방식 익힘
-- 컴포넌트 분리의 중요성 느낌
-- eslint와 prettier 설정 방법 익힘
-
-## 📂 실행 방법
-```bash
-git clone https://github.com/your-id/project-name
-npm install
-npm run dev
+---
